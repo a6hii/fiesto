@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "713063293671",
+    "project_id": "fiesto-flutter-app",
+    "storage_bucket": "fiesto-flutter-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713063293671:android:23e63fceeba874338c7842",
+        "android_client_info": {
+          "package_name": "in.fiesto.fiesto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713063293671-56lvfmimd2j7fdlvleo9942o2cjv45kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmE9vSXVV4cJrHbNak67bWr8ewRzUSmXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713063293671-56lvfmimd2j7fdlvleo9942o2cjv45kq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
